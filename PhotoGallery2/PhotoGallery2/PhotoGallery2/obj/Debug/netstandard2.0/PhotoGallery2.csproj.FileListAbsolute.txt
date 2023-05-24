@@ -1,0 +1,15 @@
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\bin\Debug\netstandard2.0\PhotoGallery2.deps.json
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\bin\Debug\netstandard2.0\PhotoGallery2.dll
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\bin\Debug\netstandard2.0\PhotoGallery2.pdb
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\PhotoGallery2.csproj.AssemblyReference.cache
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\PhotoGallery2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\PhotoGallery2.AssemblyInfoInputs.cache
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\PhotoGallery2.AssemblyInfo.cs
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\PhotoGallery2.csproj.CoreCompileInputs.cache
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\PhotoGallery2.dll
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\refint\PhotoGallery2.dll
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\PhotoGallery2.pdb
+C:\Users\389487\source\repos\PhotoGalery\PhotoGallery2\PhotoGallery2\PhotoGallery2\obj\Debug\netstandard2.0\ref\PhotoGallery2.dll

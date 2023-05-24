@@ -1,0 +1,15 @@
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\bin\Debug\netstandard2.0\GaleryApp.deps.json
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\bin\Debug\netstandard2.0\GaleryApp.dll
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\bin\Debug\netstandard2.0\GaleryApp.pdb
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\GaleryApp.csproj.AssemblyReference.cache
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\GaleryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\GaleryApp.AssemblyInfoInputs.cache
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\GaleryApp.AssemblyInfo.cs
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\GaleryApp.csproj.CoreCompileInputs.cache
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\GaleryApp.dll
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\refint\GaleryApp.dll
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\GaleryApp.pdb
+C:\Users\389487\source\repos\PhotoGalery\GaleryApp\GaleryApp\GaleryApp\obj\Debug\netstandard2.0\ref\GaleryApp.dll

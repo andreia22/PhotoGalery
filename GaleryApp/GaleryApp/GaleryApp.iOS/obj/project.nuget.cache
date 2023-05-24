@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nk51l1GoZ6T+xxjI3uzBfpTbm7XiHxRAv4F932Hms2mHA3f8w0IwPKCnQG/4F07sGxF0MMbEo84abET6oGiYQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\389487\\source\\repos\\PhotoGalery\\GaleryApp\\GaleryApp\\GaleryApp.iOS\\GaleryApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\389487\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\389487\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
