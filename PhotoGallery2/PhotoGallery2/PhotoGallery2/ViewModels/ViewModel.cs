@@ -27,5 +27,19 @@ namespace PhotoGallery2.ViewModels
 
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
+
+        private bool isBusy;
+        public bool IsBusy
+
+        {
+            get => isBusy;
+            set
+            {
+                set(ref isBusy, value);
+                RaisePropertyChanged(nameof(IsNotBusy));
+            }
+        }
+
+        public bool IsNotBusy;
     }
 }
